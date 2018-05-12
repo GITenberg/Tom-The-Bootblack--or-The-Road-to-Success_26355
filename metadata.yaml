@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26355#Tom-The-Bootblack--or-The-Road-to-Success
 gutenberg_issued: '2008-08-18'
 gutenberg_type: Text
 identifiers:
